@@ -1,5 +1,3 @@
-# Polegate Windmill
-
 Polegate / Willingdon Windmill is a Grade II* listed brick-built tower mill on the boundary between Polegate and Willingdon.
 First built in 1817 it was last operated by wind in 1942 but fell into a bad state of disrepair. The first initiative to restore the mill began in 1967, with numerous repairs carried out over the years, but sadly funding has never yet been sufficient to keep up with the forces of nature. The mill is sadly still in a bad state at current and has recently been added to Heritage England's Heritage at Risk Register. 
 
