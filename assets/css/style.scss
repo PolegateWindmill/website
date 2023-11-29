@@ -7,6 +7,10 @@
   visibility: hidden !important;
 }
 
-footer .ribbon-outer .ribbon-inner {
+footer .ribbon-outer .ribbon-inner p {
+  visibility: hidden;
+}
+
+footer .ribbon-outer p {
   visibility: hidden;
 }
