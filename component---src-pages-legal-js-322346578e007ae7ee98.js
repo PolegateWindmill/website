@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_portfolio_minimal_theme=self.webpackChunkgatsby_starter_portfolio_minimal_theme||[]).push([[136],{6497:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var l=n(7294),a=n(9159);function r(){return l.createElement(l.Fragment,null,l.createElement(a.pQ,{title:"Legal",useTitleTemplate:!0,noIndex:!0}),l.createElement(a.T3,null,l.createElement(a.Ek,{sectionId:"legal",heading:"Legal Information"})))}}}]);
+//# sourceMappingURL=component---src-pages-legal-js-322346578e007ae7ee98.js.map
